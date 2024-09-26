@@ -1,7 +1,7 @@
 # ossprac
 ## Written By Minyoung Hwang
 
-fetch & merge 
+fetch & merge  
 A  
 B  
 C  
